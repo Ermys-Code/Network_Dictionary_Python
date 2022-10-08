@@ -1,5 +1,5 @@
 # Network_Dictionary_Python
-Dictionary of network acronyms with client-server connection made with Python 
+Dictionary of network acronyms with client-server connection made with Python.
 
 It uses a SQL database to store the data.
 
