@@ -1,4 +1,5 @@
 # Network_Dictionary_Python
+<<<<<<< HEAD
 Dictionary of network acronyms with client-server connection made with Python.
 
 It uses a SQL database to store the data.
@@ -17,4 +18,6 @@ I you select The Acronyms Game, you will see a random acronym description from t
 and you will have to type what acronym is, if you fail, it will show you another description,
 if you success, you can type "yes" to play again or "no" to return to the main menu.
 
-If you select Exit, the client will close itself.
+If you select Exit, the client will close itself.If you select Exit, the client will close itself.
+Dictionary of network acronyms with client-server connection and database to store information made with Python and SQL 
+>>>>>>> 42ccebad1f6ef580b85cfe691c08bf28eb6652a0
